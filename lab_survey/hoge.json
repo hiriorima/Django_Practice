@@ -1,0 +1,18 @@
+{
+	"name": "hoge",
+	"number": 20323,
+	"email": "230123@hoge.co.jp",
+	"study_area": [
+        {"area": "architecture"}
+    ],
+ "study_theme": [{
+	"theme": "hoge",
+	"body": "こんな感じです"
+}],
+"progress_prepare": "保ゲフゲ〜",
+"hope_career": [{
+    "desire": 1,
+    "region": "北海道",
+    "job_category": "コンビニ店員"
+}]
+}
